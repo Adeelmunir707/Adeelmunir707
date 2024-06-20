@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h3 align="centre">Transforming Ideas into Intelligent Solutions:</h3>
-<p style="text-align: justify;">Passionate AI and Machine Learning enthusiast with a flair for developing cutting <br> edge technologies. Experienced in crafting and refining models, always eager to explore new algorithms and techniques. Committed to open-source contributions <br> and tech community collaboration. Join me on a journey of innovation and future transformation!</p>
+<p style="text-align: justify;">Passionate AI and Machine Learning enthusiast with a flair for developing cutting edge technologies. Experienced in crafting and refining models, always eager to explore new algorithms and techniques. Committed to open-source contributions and tech community collaboration. Join me on a journey of innovation and future transformation!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelmunir707&label=Profile%20views&color=0e75b6&style=flat" alt="adeelmunir707" /> </p>
 
