@@ -6,8 +6,7 @@
 <h3 align="centre">Transforming Ideas into Intelligent Solutions:</h3>
 <p style="text-align: justify;">Passionate AI and Machine Learning enthusiast with a flair for developing cutting edge technologies. Experienced in crafting and refining models, always eager to explore new algorithms and techniques. Committed to open-source contributions and tech community collaboration. Join me on a journey of innovation and future transformation!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelmunir707&label=Profile%20views&color=0e75b6&style=flat" alt="adeelmunir707" /> </p>
-
+<p align="left"> <a href="https://twitter.com/adeel_10m" target="blank"><img src="https://img.shields.io/twitter/follow/adeel_10m?logo=twitter&style=for-the-badge" alt="adeel_10m" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
@@ -19,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/adeel_10m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/adeel_10m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adeelmunir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeelmunir/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100069188553612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069188553612" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/me_aadie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/me_aadie/" height="30" width="40" /></a>
+<a href="https://twitter.com/adeel_10m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeel_10m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adeelmunir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeelmunir/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100069188553612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100069188553612" height="30" width="40" /></a>
+<a href="https://instagram.com/me_aadie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_aadie/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
