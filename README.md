@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeel Munir</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast</h3>
-<h3 align="center">Alpha-Microsoft Learn Student Ambassador</h3>
+<h3 align="center">A passionate Machine Learning | Deep Learning Enthusiast</h3>
+<h3 align="center">Beta-Microsoft Learn Student Ambassador</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
